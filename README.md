@@ -3,6 +3,7 @@ This Application is based on real time hospital management system, with three ro
 1) Doctor 
 2) Admin 
 3) Receptionist.
+
 People from each role have to first login through their passwords.
 
 ADMIN VIEW:
